@@ -1,4 +1,4 @@
-module edlgg-go-common
+module github.com/edlgg/edlgg-go-common
 
 go 1.24.2
 
